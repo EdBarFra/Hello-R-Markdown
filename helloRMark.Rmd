@@ -8,4 +8,6 @@ output: github_document
 I was told to write a single English sentence.
 ```{r}
 print("I was told to write a single English sentence.")
+x <- 1:20
+x
 ```
